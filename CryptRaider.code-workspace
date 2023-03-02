@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "CryptRaider",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\All Games\\Epic Games\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"C:\\Users\\sangv\\OneDrive\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\Intermediate\\Build\\Win64\\UnrealEditor\\Development\\CryptRaider\\Definitions.CryptRaider.h",
+			"C:\\Users\\sangv\\OneDrive\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\Intermediate\\Build\\Win64\\CryptRaiderEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
